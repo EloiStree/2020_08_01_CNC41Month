@@ -10,3 +10,9 @@ So if you are in to that. Feel free to follow the adventure.
 ## Note for future comment/uestion/other: Only CNC
 Consider that during all this open project I am going to only targeting CNC.
 Most of the information on this documented experiment won't target Laser Cutting or printing in 3D except if it have a direct impact on a CNC project.
+
+### Stream / Media.
+I need to check the authorization.
+But if I spend one month on the project. It would be a minimum to do some videos/photo/stream.
+
+So find here later when I plan to Vlog the result of the experiment.
