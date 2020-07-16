@@ -16,3 +16,7 @@ I need to check the authorization.
 But if I spend one month on the project. It would be a minimum to do some videos/photo/stream.
 
 So find here later when I plan to Vlog the result of the experiment.
+- 03.08—06.08.2020 Workshop CAD
+  - 07.08.2020 What have been done? 
+- 07.08.2020-07.09.2020 CNC 4-1 Month
+  - 07.09.2020 What have been done ?
