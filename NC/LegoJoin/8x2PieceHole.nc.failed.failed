@@ -1,0 +1,30 @@
+(1001)
+(Machine)
+(  vendor: Autodesk)
+(  description: Generic 3-axis)
+(T3  D=3 CR=0 - ZMIN=-1.35 - flat end mill)
+G90 G94
+G17
+G21
+
+(2D Contour2)
+T3
+S1000 M3
+G54
+M8
+G0 X43.192 Y-15.418
+Z15
+Z5
+G1 Z0.01 F200
+Z-1.05
+X43.197 Y-15.412 Z-1.117 F450
+X43.212 Y-15.396 Z-1.18
+X43.237 Y-15.371 Z-1.237
+X43.27 Y-15.336 Z-1.285
+X43.309 Y-15.295 Z-1.32
+X43.353 Y-15.25 Z-1.342
+X43.4 Y-15.202 Z-1.35
+M9
+M5
+M30
+!Error: Failed to post data. See log for details.
