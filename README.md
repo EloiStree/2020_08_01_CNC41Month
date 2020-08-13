@@ -7,7 +7,7 @@ And so to learn about how to use a CNC miling machine(s) :).
 So if you are in to that. Feel free to follow the adventure.
 
 
-## Note for future comment/uestion/other: Only CNC
+## Note for future comment/question/other: Only CNC
 Consider that during all this open project I am going to only targeting CNC.
 Most of the information on this documented experiment won't target Laser Cutting or printing in 3D except if it have a direct impact on a CNC project.
 
