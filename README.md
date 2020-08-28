@@ -16,6 +16,7 @@ I start to make post-mortem of what I learn starting now: 28-08-2020.
 So you can check the issue https://github.com/EloiStree/2020_08_01_CNC41Month/issues if you want to have an overlook.
 Else, feel free to come back soon for a more condense and user friendly write up.
 
+- [Objectives I have in mind of my projects](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/90)
 
 ## Post
 - [Representatif photo of the project](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/88)
@@ -26,7 +27,13 @@ Else, feel free to come back soon for a more condense and user friendly write up
   - [Stabilo Holder](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/77)
 
 ### Learn of my failure
-- [High-Z S-720, my bad day]  https://github.com/EloiStree/2020_08_01_CNC41Month/issues/74
+- [High-Z S-720, my bad day](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/74)
+
+### Board(s)
+- [Keywords and softares](https://github.com/EloiStree/2020_08_01_CNC41Month/projects/5)
+- [Mistake I did several time](https://github.com/EloiStree/2020_08_01_CNC41Month/projects/8)
+- [On the fly notes](https://github.com/EloiStree/2020_08_01_CNC41Month/projects/6)
+
 
 
 # Talk, support, questions
