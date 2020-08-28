@@ -6,6 +6,9 @@ As my steps can be useful for every new comer to the CNC world. It was important
 So if you are a newbie in this world. 
 Welcome to you :)
 
+PS: If you see an empty post it often means that I work on it but forget it or did not take the time to post on it.
+If you have any question on the issue, just comment on it. I will come to you as soon as my planning allow it.
+
 ## Write up & Post Mortem
 I start to make post-mortem of what I learn starting now: 28-08-2020.
 So you can check the issue https://github.com/EloiStree/2020_08_01_CNC41Month/issues if you want to have an overlook.
@@ -15,7 +18,8 @@ Else, feel free to come back soon for a more condense and user friendly write up
 ## Post
 - [Representatif photo of the project](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/88)
 - [Fusion 360 main project links](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/89)
-
+- [Break it experiment](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/86) 
+  - [<1mm](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/83)
 # Talk, support, questions
 - [Offer me a coffe](https://ko-fi.com/eloistree)
 - [Contact me on Discord](https://eloistree.page.link/discord)
