@@ -19,12 +19,11 @@ Else, feel free to come back soon for a more condense and user friendly write up
 ## Draft note for the write up
 
 - Playlists of research and development
-  - [List of them](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/58)
-- 
+  - [ Plenty of playlist created during my month of research](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/58)
 
 ## Good group to follow
 - Instagram
   - [SainSmart](https://www.instagram.com/sainsmart/)
-  - [#3018pro]https://www.instagram.com/explore/tags/3018pro/?hl=fr
+  - [#3018pro](https://www.instagram.com/explore/tags/3018pro/?hl=fr)
 - Facebook
   - [SainSmart GenmitsuCNC](https://www.facebook.com/groups/SainSmart.GenmitsuCNC) (Very active members)
