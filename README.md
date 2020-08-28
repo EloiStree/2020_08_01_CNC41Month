@@ -12,7 +12,7 @@ So you can check the issue https://github.com/EloiStree/2020_08_01_CNC41Month/is
 Else, feel free to come back soon for a more condense and user friendly write up.
 
 
-# Talk; support, questions
+# Talk, support, questions
 - [Offer me a coffe](https://ko-fi.com/eloistree)
 - [Contact me on Discord](https://eloistree.page.link/discord)
 ---------------------
