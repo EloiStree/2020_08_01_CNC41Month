@@ -12,6 +12,10 @@ So you can check the issue https://github.com/EloiStree/2020_08_01_CNC41Month/is
 Else, feel free to come back soon for a more condense and user friendly write up.
 
 
+## Post
+- [Representatif photo of the project](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/88)
+- [Fusion 360 main project links](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/89)
+
 # Talk, support, questions
 - [Offer me a coffe](https://ko-fi.com/eloistree)
 - [Contact me on Discord](https://eloistree.page.link/discord)
@@ -20,6 +24,11 @@ Else, feel free to come back soon for a more condense and user friendly write up
 
 - Playlists of research and development
   - [ Plenty of playlist created during my month of research](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/58)
+
+- Tool created
+  - [Unity GCode utility (for 3018 Pro)](https://github.com/EloiStree/2020_08_19_CNC3018ProGCode)
+- Tutorial
+  - [How to create a Geta](https://github.com/EloiStree/2020_08_01_CNC41Month/issues/87)
 
 ## Good group to follow
 - Instagram
