@@ -1,0 +1,38 @@
+(1001)
+(Machine)
+(  vendor: Autodesk)
+(  description: Generic 3-axis)
+(T3  D=3 CR=0 - ZMIN=0 - flat end mill)
+G90 G94
+G17
+G21
+
+(Drill1)
+T3
+S1 M3
+G54
+M8
+G0 X0 Y0
+Z15
+Z5
+G1 Z0 F200
+G0 Z5
+X0.001 Y-28.478
+G1 Z0 F200
+G0 Z5
+X22.433 Y-51.991
+G1 Z0 F200
+G0 Z5
+X55.852 Y-52.37
+G1 Z0 F200
+G0 Z5
+X79.268 Y-28.753
+G1 Z0 F200
+G0 Z5
+Y0
+G1 Z0 F200
+G0 Z5
+Z15
+M9
+M5
+M30
